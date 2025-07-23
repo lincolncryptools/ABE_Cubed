@@ -1,0 +1,1040 @@
+WARNING: HTML report generation will become a non-default optional feature in Criterion.rs 0.4.0.
+This feature is being moved to cargo-criterion (https://github.com/bheisler/cargo-criterion) and will be optional in a future version of Criterion.rs. To silence this warning, either switch to cargo-criterion or enable the 'html_reports' feature in your Cargo.toml.
+
+Gnuplot not found, using plotters backend
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 4.6s, or reduce sample count to 20.
+test setup/opt0_vary_size_50_50_1 ... bench:   115151439 ns/iter (+/- 502528)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 4.6s, or reduce sample count to 20.
+test setup/opt0_vary_size_50_50_2 ... bench:   115221422 ns/iter (+/- 489114)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 4.6s, or reduce sample count to 20.
+test setup/opt0_vary_size_50_50_3 ... bench:   115057865 ns/iter (+/- 526046)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 4.6s, or reduce sample count to 20.
+test setup/opt0_vary_size_50_50_4 ... bench:   115013413 ns/iter (+/- 386128)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 4.6s, or reduce sample count to 20.
+test setup/opt0_vary_size_50_50_5 ... bench:   115091746 ns/iter (+/- 348027)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 4.6s, or reduce sample count to 20.
+test setup/opt0_vary_size_50_50_6 ... bench:   115127766 ns/iter (+/- 500266)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 4.6s, or reduce sample count to 20.
+test setup/opt0_vary_size_50_50_7 ... bench:   115100074 ns/iter (+/- 464756)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 4.6s, or reduce sample count to 20.
+test setup/opt0_vary_size_50_50_8 ... bench:   114967560 ns/iter (+/- 634914)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 4.6s, or reduce sample count to 20.
+test setup/opt0_vary_size_50_50_9 ... bench:   115147897 ns/iter (+/- 455880)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 4.6s, or reduce sample count to 20.
+test setup/opt0_vary_size_50_50_10 ... bench:   115136072 ns/iter (+/- 333677)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 4.6s, or reduce sample count to 20.
+test setup/opt0_vary_size_50_50_20 ... bench:   115099099 ns/iter (+/- 389913)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 4.6s, or reduce sample count to 20.
+test setup/opt0_vary_size_50_50_30 ... bench:   115109279 ns/iter (+/- 356262)
+
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 4.6s, or reduce sample count to 20.
+test setup/opt1_vary_size_50_50_1 ... bench:   114995370 ns/iter (+/- 481846)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 4.6s, or reduce sample count to 20.
+test setup/opt1_vary_size_50_50_2 ... bench:   115036176 ns/iter (+/- 386415)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 4.6s, or reduce sample count to 20.
+test setup/opt1_vary_size_50_50_3 ... bench:   114949327 ns/iter (+/- 414248)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 4.6s, or reduce sample count to 20.
+test setup/opt1_vary_size_50_50_4 ... bench:   114963708 ns/iter (+/- 400967)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 4.6s, or reduce sample count to 20.
+test setup/opt1_vary_size_50_50_5 ... bench:   115075492 ns/iter (+/- 408327)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 4.6s, or reduce sample count to 20.
+test setup/opt1_vary_size_50_50_6 ... bench:   115037650 ns/iter (+/- 358259)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 4.6s, or reduce sample count to 20.
+test setup/opt1_vary_size_50_50_7 ... bench:   115060991 ns/iter (+/- 340080)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 4.6s, or reduce sample count to 20.
+test setup/opt1_vary_size_50_50_8 ... bench:   115039285 ns/iter (+/- 454479)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 4.6s, or reduce sample count to 20.
+test setup/opt1_vary_size_50_50_9 ... bench:   115046205 ns/iter (+/- 474605)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 4.6s, or reduce sample count to 20.
+test setup/opt1_vary_size_50_50_10 ... bench:   115060629 ns/iter (+/- 380505)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 4.6s, or reduce sample count to 20.
+test setup/opt1_vary_size_50_50_20 ... bench:   114941431 ns/iter (+/- 356678)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 4.6s, or reduce sample count to 20.
+test setup/opt1_vary_size_50_50_30 ... bench:   115083981 ns/iter (+/- 480712)
+
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 4.6s, or reduce sample count to 20.
+test setup/opt2_vary_size_50_50_1 ... bench:   115003162 ns/iter (+/- 425310)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 4.6s, or reduce sample count to 20.
+test setup/opt2_vary_size_50_50_2 ... bench:   115129202 ns/iter (+/- 406682)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 4.6s, or reduce sample count to 20.
+test setup/opt2_vary_size_50_50_3 ... bench:   114938383 ns/iter (+/- 367819)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 4.6s, or reduce sample count to 20.
+test setup/opt2_vary_size_50_50_4 ... bench:   115002081 ns/iter (+/- 319347)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 4.6s, or reduce sample count to 20.
+test setup/opt2_vary_size_50_50_5 ... bench:   114992436 ns/iter (+/- 344703)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 4.6s, or reduce sample count to 20.
+test setup/opt2_vary_size_50_50_6 ... bench:   115141712 ns/iter (+/- 389023)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 4.6s, or reduce sample count to 20.
+test setup/opt2_vary_size_50_50_7 ... bench:   115121111 ns/iter (+/- 383303)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 4.6s, or reduce sample count to 20.
+test setup/opt2_vary_size_50_50_8 ... bench:   114978415 ns/iter (+/- 523746)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 4.6s, or reduce sample count to 20.
+test setup/opt2_vary_size_50_50_9 ... bench:   114999655 ns/iter (+/- 453773)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 4.6s, or reduce sample count to 20.
+test setup/opt2_vary_size_50_50_10 ... bench:   115016986 ns/iter (+/- 447941)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 4.6s, or reduce sample count to 20.
+test setup/opt2_vary_size_50_50_20 ... bench:   114822073 ns/iter (+/- 412876)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 4.6s, or reduce sample count to 20.
+test setup/opt2_vary_size_50_50_30 ... bench:   115052241 ns/iter (+/- 368815)
+
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 4.6s, or reduce sample count to 20.
+test setup/opt3_vary_size_50_50_1 ... bench:   115006485 ns/iter (+/- 435622)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 4.6s, or reduce sample count to 20.
+test setup/opt3_vary_size_50_50_2 ... bench:   115096727 ns/iter (+/- 498068)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 4.6s, or reduce sample count to 20.
+test setup/opt3_vary_size_50_50_3 ... bench:   114999913 ns/iter (+/- 388150)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 4.6s, or reduce sample count to 20.
+test setup/opt3_vary_size_50_50_4 ... bench:   114926806 ns/iter (+/- 385999)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 4.6s, or reduce sample count to 20.
+test setup/opt3_vary_size_50_50_5 ... bench:   114902230 ns/iter (+/- 413597)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 4.6s, or reduce sample count to 20.
+test setup/opt3_vary_size_50_50_6 ... bench:   115036335 ns/iter (+/- 359500)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 4.6s, or reduce sample count to 20.
+test setup/opt3_vary_size_50_50_7 ... bench:   115007418 ns/iter (+/- 392804)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 4.6s, or reduce sample count to 20.
+test setup/opt3_vary_size_50_50_8 ... bench:   114914790 ns/iter (+/- 408124)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 4.6s, or reduce sample count to 20.
+test setup/opt3_vary_size_50_50_9 ... bench:   114928535 ns/iter (+/- 386963)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 4.6s, or reduce sample count to 20.
+test setup/opt3_vary_size_50_50_10 ... bench:   114970992 ns/iter (+/- 397070)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 4.6s, or reduce sample count to 20.
+test setup/opt3_vary_size_50_50_20 ... bench:   114833801 ns/iter (+/- 336306)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 4.6s, or reduce sample count to 20.
+test setup/opt3_vary_size_50_50_30 ... bench:   115070405 ns/iter (+/- 428940)
+
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 5.1s, or reduce sample count to 20.
+test setup/opt4_vary_size_50_50_1 ... bench:   127177074 ns/iter (+/- 522277)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 5.1s, or reduce sample count to 20.
+test setup/opt4_vary_size_50_50_2 ... bench:   126852215 ns/iter (+/- 392685)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 5.1s, or reduce sample count to 20.
+test setup/opt4_vary_size_50_50_3 ... bench:   127038677 ns/iter (+/- 473437)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 5.1s, or reduce sample count to 20.
+test setup/opt4_vary_size_50_50_4 ... bench:   127069013 ns/iter (+/- 406216)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 5.1s, or reduce sample count to 20.
+test setup/opt4_vary_size_50_50_5 ... bench:   127149351 ns/iter (+/- 425181)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 5.1s, or reduce sample count to 20.
+test setup/opt4_vary_size_50_50_6 ... bench:   127150441 ns/iter (+/- 447254)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 5.1s, or reduce sample count to 20.
+test setup/opt4_vary_size_50_50_7 ... bench:   126909942 ns/iter (+/- 349744)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 5.1s, or reduce sample count to 20.
+test setup/opt4_vary_size_50_50_8 ... bench:   126895720 ns/iter (+/- 324371)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 5.1s, or reduce sample count to 20.
+test setup/opt4_vary_size_50_50_9 ... bench:   127241209 ns/iter (+/- 451761)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 5.1s, or reduce sample count to 20.
+test setup/opt4_vary_size_50_50_10 ... bench:   127096123 ns/iter (+/- 430723)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 5.1s, or reduce sample count to 20.
+test setup/opt4_vary_size_50_50_20 ... bench:   126997209 ns/iter (+/- 483785)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 5.1s, or reduce sample count to 20.
+test setup/opt4_vary_size_50_50_30 ... bench:   127059041 ns/iter (+/- 433242)
+
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 5.1s, or reduce sample count to 20.
+test setup/opt5_vary_size_50_50_1 ... bench:   127111494 ns/iter (+/- 515143)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 5.1s, or reduce sample count to 20.
+test setup/opt5_vary_size_50_50_2 ... bench:   126992608 ns/iter (+/- 402149)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 5.1s, or reduce sample count to 20.
+test setup/opt5_vary_size_50_50_3 ... bench:   126952737 ns/iter (+/- 353439)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 5.1s, or reduce sample count to 20.
+test setup/opt5_vary_size_50_50_4 ... bench:   127192831 ns/iter (+/- 3296392)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 5.1s, or reduce sample count to 20.
+test setup/opt5_vary_size_50_50_5 ... bench:   127048151 ns/iter (+/- 366482)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 5.1s, or reduce sample count to 20.
+test setup/opt5_vary_size_50_50_6 ... bench:   126995773 ns/iter (+/- 377637)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 5.1s, or reduce sample count to 20.
+test setup/opt5_vary_size_50_50_7 ... bench:   127029714 ns/iter (+/- 318502)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 5.1s, or reduce sample count to 20.
+test setup/opt5_vary_size_50_50_8 ... bench:   126931620 ns/iter (+/- 325297)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 5.1s, or reduce sample count to 20.
+test setup/opt5_vary_size_50_50_9 ... bench:   127079425 ns/iter (+/- 393848)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 5.1s, or reduce sample count to 20.
+test setup/opt5_vary_size_50_50_10 ... bench:   126973171 ns/iter (+/- 426910)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 5.1s, or reduce sample count to 20.
+test setup/opt5_vary_size_50_50_20 ... bench:   127071515 ns/iter (+/- 477268)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 5.1s, or reduce sample count to 20.
+test setup/opt5_vary_size_50_50_30 ... bench:   127029373 ns/iter (+/- 1573878)
+
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 5.6s, or reduce sample count to 20.
+test setup/opt6_vary_size_50_50_1 ... bench:   139253071 ns/iter (+/- 601559)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 5.6s, or reduce sample count to 20.
+test setup/opt6_vary_size_50_50_2 ... bench:   139201074 ns/iter (+/- 449265)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 5.6s, or reduce sample count to 20.
+test setup/opt6_vary_size_50_50_3 ... bench:   139192338 ns/iter (+/- 395468)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 5.6s, or reduce sample count to 20.
+test setup/opt6_vary_size_50_50_4 ... bench:   139156960 ns/iter (+/- 424804)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 5.6s, or reduce sample count to 20.
+test setup/opt6_vary_size_50_50_5 ... bench:   139023261 ns/iter (+/- 404062)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 5.6s, or reduce sample count to 20.
+test setup/opt6_vary_size_50_50_6 ... bench:   139222939 ns/iter (+/- 483555)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 5.6s, or reduce sample count to 20.
+test setup/opt6_vary_size_50_50_7 ... bench:   139108359 ns/iter (+/- 443487)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 5.6s, or reduce sample count to 20.
+test setup/opt6_vary_size_50_50_8 ... bench:   138828587 ns/iter (+/- 1356522)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 5.6s, or reduce sample count to 20.
+test setup/opt6_vary_size_50_50_9 ... bench:   138994044 ns/iter (+/- 382583)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 5.6s, or reduce sample count to 20.
+test setup/opt6_vary_size_50_50_10 ... bench:   139098972 ns/iter (+/- 466968)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 5.6s, or reduce sample count to 20.
+test setup/opt6_vary_size_50_50_20 ... bench:   139005479 ns/iter (+/- 467682)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 5.6s, or reduce sample count to 20.
+test setup/opt6_vary_size_50_50_30 ... bench:   138991479 ns/iter (+/- 454913)
+
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 8.4s, or reduce sample count to 10.
+test keygen/opt0_vary_size_50_50_1 ... bench:   211327907 ns/iter (+/- 630272)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 13.3s, or reduce sample count to 10.
+test keygen/opt0_vary_size_50_50_2 ... bench:   330892532 ns/iter (+/- 656328)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 18.0s, or reduce sample count to 10.
+test keygen/opt0_vary_size_50_50_3 ... bench:   450088068 ns/iter (+/- 739602)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 22.8s, or reduce sample count to 10.
+test keygen/opt0_vary_size_50_50_4 ... bench:   569709767 ns/iter (+/- 772322)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 27.6s, or reduce sample count to 10.
+test keygen/opt0_vary_size_50_50_5 ... bench:   688762398 ns/iter (+/- 887156)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 32.3s, or reduce sample count to 10.
+test keygen/opt0_vary_size_50_50_6 ... bench:   807600417 ns/iter (+/- 1077644)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 37.1s, or reduce sample count to 10.
+test keygen/opt0_vary_size_50_50_7 ... bench:   926596473 ns/iter (+/- 2962076)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 41.8s, or reduce sample count to 10.
+test keygen/opt0_vary_size_50_50_8 ... bench:  1046465466 ns/iter (+/- 1449322)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 46.6s, or reduce sample count to 10.
+test keygen/opt0_vary_size_50_50_9 ... bench:  1164712843 ns/iter (+/- 1483921)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 51.3s, or reduce sample count to 10.
+test keygen/opt0_vary_size_50_50_10 ... bench:  1283575843 ns/iter (+/- 1870611)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 99.2s, or reduce sample count to 10.
+test keygen/opt0_vary_size_50_50_20 ... bench:  2477513346 ns/iter (+/- 3915760)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 146.7s, or reduce sample count to 10.
+test keygen/opt0_vary_size_50_50_30 ... bench:  3671862767 ns/iter (+/- 3757042)
+
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 8.4s, or reduce sample count to 10.
+test keygen/opt1_vary_size_50_50_1 ... bench:   210958384 ns/iter (+/- 474690)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 13.2s, or reduce sample count to 10.
+test keygen/opt1_vary_size_50_50_2 ... bench:   330697081 ns/iter (+/- 625917)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 18.0s, or reduce sample count to 10.
+test keygen/opt1_vary_size_50_50_3 ... bench:   449681204 ns/iter (+/- 849876)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 22.8s, or reduce sample count to 10.
+test keygen/opt1_vary_size_50_50_4 ... bench:   569351394 ns/iter (+/- 870871)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 27.6s, or reduce sample count to 10.
+test keygen/opt1_vary_size_50_50_5 ... bench:   688348646 ns/iter (+/- 2423560)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 32.3s, or reduce sample count to 10.
+test keygen/opt1_vary_size_50_50_6 ... bench:   806870136 ns/iter (+/- 951640)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 37.0s, or reduce sample count to 10.
+test keygen/opt1_vary_size_50_50_7 ... bench:   926225921 ns/iter (+/- 1497099)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 41.9s, or reduce sample count to 10.
+test keygen/opt1_vary_size_50_50_8 ... bench:  1045858686 ns/iter (+/- 1348481)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 46.6s, or reduce sample count to 10.
+test keygen/opt1_vary_size_50_50_9 ... bench:  1164686223 ns/iter (+/- 1320373)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 51.4s, or reduce sample count to 10.
+test keygen/opt1_vary_size_50_50_10 ... bench:  1283198812 ns/iter (+/- 1339840)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 99.0s, or reduce sample count to 10.
+test keygen/opt1_vary_size_50_50_20 ... bench:  2475364070 ns/iter (+/- 2934082)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 146.6s, or reduce sample count to 10.
+test keygen/opt1_vary_size_50_50_30 ... bench:  3669904444 ns/iter (+/- 3611471)
+
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 8.4s, or reduce sample count to 10.
+test keygen/opt2_vary_size_50_50_1 ... bench:   210845579 ns/iter (+/- 460392)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 13.2s, or reduce sample count to 10.
+test keygen/opt2_vary_size_50_50_2 ... bench:   330569069 ns/iter (+/- 508587)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 18.0s, or reduce sample count to 10.
+test keygen/opt2_vary_size_50_50_3 ... bench:   449777572 ns/iter (+/- 620270)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 22.8s, or reduce sample count to 10.
+test keygen/opt2_vary_size_50_50_4 ... bench:   569322567 ns/iter (+/- 782829)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 27.5s, or reduce sample count to 10.
+test keygen/opt2_vary_size_50_50_5 ... bench:   688280391 ns/iter (+/- 944065)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 32.3s, or reduce sample count to 10.
+test keygen/opt2_vary_size_50_50_6 ... bench:   807207138 ns/iter (+/- 819238)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 37.1s, or reduce sample count to 10.
+test keygen/opt2_vary_size_50_50_7 ... bench:   926494090 ns/iter (+/- 1176615)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 42.0s, or reduce sample count to 10.
+test keygen/opt2_vary_size_50_50_8 ... bench:  1045748334 ns/iter (+/- 1292805)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 46.5s, or reduce sample count to 10.
+test keygen/opt2_vary_size_50_50_9 ... bench:  1164131187 ns/iter (+/- 1393549)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 51.3s, or reduce sample count to 10.
+test keygen/opt2_vary_size_50_50_10 ... bench:  1283404935 ns/iter (+/- 1552839)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 99.1s, or reduce sample count to 10.
+test keygen/opt2_vary_size_50_50_20 ... bench:  2476894264 ns/iter (+/- 3359749)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 146.8s, or reduce sample count to 10.
+test keygen/opt2_vary_size_50_50_30 ... bench:  3668490708 ns/iter (+/- 3186165)
+
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 8.4s, or reduce sample count to 10.
+test keygen/opt3_vary_size_50_50_1 ... bench:   211103901 ns/iter (+/- 506052)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 13.2s, or reduce sample count to 10.
+test keygen/opt3_vary_size_50_50_2 ... bench:   330790858 ns/iter (+/- 642721)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 18.0s, or reduce sample count to 10.
+test keygen/opt3_vary_size_50_50_3 ... bench:   449716408 ns/iter (+/- 639523)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 22.8s, or reduce sample count to 10.
+test keygen/opt3_vary_size_50_50_4 ... bench:   569047476 ns/iter (+/- 4396408)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 27.6s, or reduce sample count to 10.
+test keygen/opt3_vary_size_50_50_5 ... bench:   688751230 ns/iter (+/- 974272)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 32.3s, or reduce sample count to 10.
+test keygen/opt3_vary_size_50_50_6 ... bench:   807532455 ns/iter (+/- 633657)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 37.1s, or reduce sample count to 10.
+test keygen/opt3_vary_size_50_50_7 ... bench:   926943862 ns/iter (+/- 1151871)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 41.8s, or reduce sample count to 10.
+test keygen/opt3_vary_size_50_50_8 ... bench:  1046425391 ns/iter (+/- 3586534)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 46.5s, or reduce sample count to 10.
+test keygen/opt3_vary_size_50_50_9 ... bench:  1164565109 ns/iter (+/- 1318759)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 51.3s, or reduce sample count to 10.
+test keygen/opt3_vary_size_50_50_10 ... bench:  1286319425 ns/iter (+/- 7120833)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 99.0s, or reduce sample count to 10.
+test keygen/opt3_vary_size_50_50_20 ... bench:  2479868571 ns/iter (+/- 13462509)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 146.9s, or reduce sample count to 10.
+test keygen/opt3_vary_size_50_50_30 ... bench:  3693723194 ns/iter (+/- 19583845)
+
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.0s, or reduce sample count to 10.
+test keygen/opt4_vary_size_50_50_1 ... bench:   225847286 ns/iter (+/- 1722590)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 14.4s, or reduce sample count to 10.
+test keygen/opt4_vary_size_50_50_2 ... bench:   359061880 ns/iter (+/- 3956922)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 19.9s, or reduce sample count to 10.
+test keygen/opt4_vary_size_50_50_3 ... bench:   491255017 ns/iter (+/- 10846652)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 25.1s, or reduce sample count to 10.
+test keygen/opt4_vary_size_50_50_4 ... bench:   619590538 ns/iter (+/- 7801387)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 30.1s, or reduce sample count to 10.
+test keygen/opt4_vary_size_50_50_5 ... bench:   749901653 ns/iter (+/- 2080761)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 35.2s, or reduce sample count to 10.
+test keygen/opt4_vary_size_50_50_6 ... bench:   880359489 ns/iter (+/- 1168018)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 40.4s, or reduce sample count to 10.
+test keygen/opt4_vary_size_50_50_7 ... bench:  1011760344 ns/iter (+/- 1131228)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 45.8s, or reduce sample count to 10.
+test keygen/opt4_vary_size_50_50_8 ... bench:  1143255540 ns/iter (+/- 1129599)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 50.9s, or reduce sample count to 10.
+test keygen/opt4_vary_size_50_50_9 ... bench:  1273207959 ns/iter (+/- 1251902)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 56.2s, or reduce sample count to 10.
+test keygen/opt4_vary_size_50_50_10 ... bench:  1404009566 ns/iter (+/- 1491161)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 108.8s, or reduce sample count to 10.
+test keygen/opt4_vary_size_50_50_20 ... bench:  2718303655 ns/iter (+/- 2801027)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 161.5s, or reduce sample count to 10.
+test keygen/opt4_vary_size_50_50_30 ... bench:  4030873686 ns/iter (+/- 14628710)
+
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 11.3s, or reduce sample count to 10.
+test keygen/opt5_vary_size_50_50_1 ... bench:   281729983 ns/iter (+/- 644733)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 16.1s, or reduce sample count to 10.
+test keygen/opt5_vary_size_50_50_2 ... bench:   401734765 ns/iter (+/- 1139916)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 20.8s, or reduce sample count to 10.
+test keygen/opt5_vary_size_50_50_3 ... bench:   520511422 ns/iter (+/- 1162857)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 25.6s, or reduce sample count to 10.
+test keygen/opt5_vary_size_50_50_4 ... bench:   640106913 ns/iter (+/- 760523)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 30.5s, or reduce sample count to 10.
+test keygen/opt5_vary_size_50_50_5 ... bench:   758885364 ns/iter (+/- 1148027)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 35.1s, or reduce sample count to 10.
+test keygen/opt5_vary_size_50_50_6 ... bench:   878128325 ns/iter (+/- 1405978)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 39.9s, or reduce sample count to 10.
+test keygen/opt5_vary_size_50_50_7 ... bench:   997699624 ns/iter (+/- 1456681)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 44.7s, or reduce sample count to 10.
+test keygen/opt5_vary_size_50_50_8 ... bench:  1117352231 ns/iter (+/- 1295254)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 49.4s, or reduce sample count to 10.
+test keygen/opt5_vary_size_50_50_9 ... bench:  1235498017 ns/iter (+/- 2630071)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 54.2s, or reduce sample count to 10.
+test keygen/opt5_vary_size_50_50_10 ... bench:  1354547769 ns/iter (+/- 1367470)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 102.1s, or reduce sample count to 10.
+test keygen/opt5_vary_size_50_50_20 ... bench:  2549471544 ns/iter (+/- 2296065)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 149.6s, or reduce sample count to 10.
+test keygen/opt5_vary_size_50_50_30 ... bench:  3742731091 ns/iter (+/- 2836883)
+
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 11.7s, or reduce sample count to 10.
+test keygen/opt6_vary_size_50_50_1 ... bench:   293300830 ns/iter (+/- 608771)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 17.0s, or reduce sample count to 10.
+test keygen/opt6_vary_size_50_50_2 ... bench:   424479018 ns/iter (+/- 872942)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 22.2s, or reduce sample count to 10.
+test keygen/opt6_vary_size_50_50_3 ... bench:   555459224 ns/iter (+/- 879038)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 27.5s, or reduce sample count to 10.
+test keygen/opt6_vary_size_50_50_4 ... bench:   686870662 ns/iter (+/- 842570)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 32.7s, or reduce sample count to 10.
+test keygen/opt6_vary_size_50_50_5 ... bench:   818175811 ns/iter (+/- 930498)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 38.0s, or reduce sample count to 10.
+test keygen/opt6_vary_size_50_50_6 ... bench:   949357950 ns/iter (+/- 3569631)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 43.2s, or reduce sample count to 10.
+test keygen/opt6_vary_size_50_50_7 ... bench:  1080665123 ns/iter (+/- 1253615)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 49.1s, or reduce sample count to 10.
+test keygen/opt6_vary_size_50_50_8 ... bench:  1212375112 ns/iter (+/- 17186687)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 54.1s, or reduce sample count to 10.
+test keygen/opt6_vary_size_50_50_9 ... bench:  1339894888 ns/iter (+/- 7663252)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 58.8s, or reduce sample count to 10.
+test keygen/opt6_vary_size_50_50_10 ... bench:  1469823285 ns/iter (+/- 5354217)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 111.3s, or reduce sample count to 10.
+test keygen/opt6_vary_size_50_50_20 ... bench:  2782134246 ns/iter (+/- 10744915)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 165.2s, or reduce sample count to 10.
+test keygen/opt6_vary_size_50_50_30 ... bench:  4091150473 ns/iter (+/- 9769288)
+
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.4s, or reduce sample count to 10.
+test encrypt/opt0_vary_size_50_50_1 ... bench:   234376893 ns/iter (+/- 578200)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.4s, or reduce sample count to 10.
+test encrypt/opt0_vary_size_50_50_2 ... bench:   234971989 ns/iter (+/- 2079635)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.4s, or reduce sample count to 10.
+test encrypt/opt0_vary_size_50_50_3 ... bench:   234348963 ns/iter (+/- 557145)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.4s, or reduce sample count to 10.
+test encrypt/opt0_vary_size_50_50_4 ... bench:   234788612 ns/iter (+/- 701242)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.4s, or reduce sample count to 10.
+test encrypt/opt0_vary_size_50_50_5 ... bench:   235110573 ns/iter (+/- 9081784)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.4s, or reduce sample count to 10.
+test encrypt/opt0_vary_size_50_50_6 ... bench:   234850916 ns/iter (+/- 10172301)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.4s, or reduce sample count to 10.
+test encrypt/opt0_vary_size_50_50_7 ... bench:   235444526 ns/iter (+/- 864272)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.5s, or reduce sample count to 10.
+test encrypt/opt0_vary_size_50_50_8 ... bench:   234796181 ns/iter (+/- 1000538)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.4s, or reduce sample count to 10.
+test encrypt/opt0_vary_size_50_50_9 ... bench:   234898502 ns/iter (+/- 4095726)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.4s, or reduce sample count to 10.
+test encrypt/opt0_vary_size_50_50_10 ... bench:   234650896 ns/iter (+/- 688395)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.4s, or reduce sample count to 10.
+test encrypt/opt0_vary_size_50_50_20 ... bench:   234915192 ns/iter (+/- 1312031)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.4s, or reduce sample count to 10.
+test encrypt/opt0_vary_size_50_50_30 ... bench:   234800202 ns/iter (+/- 750349)
+
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.4s, or reduce sample count to 10.
+test encrypt/opt1_vary_size_50_50_1 ... bench:   234773255 ns/iter (+/- 669685)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.4s, or reduce sample count to 10.
+test encrypt/opt1_vary_size_50_50_2 ... bench:   234981873 ns/iter (+/- 716387)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.4s, or reduce sample count to 10.
+test encrypt/opt1_vary_size_50_50_3 ... bench:   234767257 ns/iter (+/- 636961)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.4s, or reduce sample count to 10.
+test encrypt/opt1_vary_size_50_50_4 ... bench:   235126486 ns/iter (+/- 717679)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.4s, or reduce sample count to 10.
+test encrypt/opt1_vary_size_50_50_5 ... bench:   234608281 ns/iter (+/- 1368639)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.4s, or reduce sample count to 10.
+test encrypt/opt1_vary_size_50_50_6 ... bench:   234967977 ns/iter (+/- 871313)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.4s, or reduce sample count to 10.
+test encrypt/opt1_vary_size_50_50_7 ... bench:   234705726 ns/iter (+/- 807465)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.4s, or reduce sample count to 10.
+test encrypt/opt1_vary_size_50_50_8 ... bench:   234894165 ns/iter (+/- 980010)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.4s, or reduce sample count to 10.
+test encrypt/opt1_vary_size_50_50_9 ... bench:   234748813 ns/iter (+/- 742294)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.4s, or reduce sample count to 10.
+test encrypt/opt1_vary_size_50_50_10 ... bench:   234883897 ns/iter (+/- 600203)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.4s, or reduce sample count to 10.
+test encrypt/opt1_vary_size_50_50_20 ... bench:   235231650 ns/iter (+/- 610055)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.4s, or reduce sample count to 10.
+test encrypt/opt1_vary_size_50_50_30 ... bench:   235037663 ns/iter (+/- 729032)
+
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.4s, or reduce sample count to 10.
+test encrypt/opt2_vary_size_50_50_1 ... bench:   234770627 ns/iter (+/- 703219)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.4s, or reduce sample count to 10.
+test encrypt/opt2_vary_size_50_50_2 ... bench:   234935462 ns/iter (+/- 597479)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.4s, or reduce sample count to 10.
+test encrypt/opt2_vary_size_50_50_3 ... bench:   234387745 ns/iter (+/- 552387)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.4s, or reduce sample count to 10.
+test encrypt/opt2_vary_size_50_50_4 ... bench:   235011635 ns/iter (+/- 742453)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.4s, or reduce sample count to 10.
+test encrypt/opt2_vary_size_50_50_5 ... bench:   234793608 ns/iter (+/- 707430)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.4s, or reduce sample count to 10.
+test encrypt/opt2_vary_size_50_50_6 ... bench:   234745810 ns/iter (+/- 595884)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.4s, or reduce sample count to 10.
+test encrypt/opt2_vary_size_50_50_7 ... bench:   234911051 ns/iter (+/- 795923)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.4s, or reduce sample count to 10.
+test encrypt/opt2_vary_size_50_50_8 ... bench:   234763744 ns/iter (+/- 745135)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.4s, or reduce sample count to 10.
+test encrypt/opt2_vary_size_50_50_9 ... bench:   234699687 ns/iter (+/- 588588)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.4s, or reduce sample count to 10.
+test encrypt/opt2_vary_size_50_50_10 ... bench:   234999542 ns/iter (+/- 639517)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.4s, or reduce sample count to 10.
+test encrypt/opt2_vary_size_50_50_20 ... bench:   235206768 ns/iter (+/- 678786)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.4s, or reduce sample count to 10.
+test encrypt/opt2_vary_size_50_50_30 ... bench:   234800228 ns/iter (+/- 708678)
+
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 7.9s, or reduce sample count to 10.
+test encrypt/opt3_vary_size_50_50_1 ... bench:   197603975 ns/iter (+/- 2824891)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 7.9s, or reduce sample count to 10.
+test encrypt/opt3_vary_size_50_50_2 ... bench:   197708685 ns/iter (+/- 2810516)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 7.9s, or reduce sample count to 10.
+test encrypt/opt3_vary_size_50_50_3 ... bench:   196965753 ns/iter (+/- 2335549)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 7.9s, or reduce sample count to 10.
+test encrypt/opt3_vary_size_50_50_4 ... bench:   197176188 ns/iter (+/- 2567724)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 8.0s, or reduce sample count to 10.
+test encrypt/opt3_vary_size_50_50_5 ... bench:   197807284 ns/iter (+/- 3106767)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 7.9s, or reduce sample count to 10.
+test encrypt/opt3_vary_size_50_50_6 ... bench:   197482292 ns/iter (+/- 2877267)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 7.9s, or reduce sample count to 10.
+test encrypt/opt3_vary_size_50_50_7 ... bench:   196794307 ns/iter (+/- 2567827)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 7.9s, or reduce sample count to 10.
+test encrypt/opt3_vary_size_50_50_8 ... bench:   197384011 ns/iter (+/- 2136304)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 7.9s, or reduce sample count to 10.
+test encrypt/opt3_vary_size_50_50_9 ... bench:   197260894 ns/iter (+/- 2081051)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 7.9s, or reduce sample count to 10.
+test encrypt/opt3_vary_size_50_50_10 ... bench:   198639793 ns/iter (+/- 3308670)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 7.9s, or reduce sample count to 10.
+test encrypt/opt3_vary_size_50_50_20 ... bench:   197188991 ns/iter (+/- 2573545)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 7.9s, or reduce sample count to 10.
+test encrypt/opt3_vary_size_50_50_30 ... bench:   197630664 ns/iter (+/- 2315871)
+
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 7.9s, or reduce sample count to 10.
+test encrypt/opt4_vary_size_50_50_1 ... bench:   197576879 ns/iter (+/- 2593215)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 7.9s, or reduce sample count to 10.
+test encrypt/opt4_vary_size_50_50_2 ... bench:   197027411 ns/iter (+/- 2994168)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 8.0s, or reduce sample count to 10.
+test encrypt/opt4_vary_size_50_50_3 ... bench:   197534522 ns/iter (+/- 2783009)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 7.9s, or reduce sample count to 10.
+test encrypt/opt4_vary_size_50_50_4 ... bench:   196661992 ns/iter (+/- 2508518)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 7.9s, or reduce sample count to 10.
+test encrypt/opt4_vary_size_50_50_5 ... bench:   197835246 ns/iter (+/- 2614680)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 7.9s, or reduce sample count to 10.
+test encrypt/opt4_vary_size_50_50_6 ... bench:   196810830 ns/iter (+/- 2121348)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 7.9s, or reduce sample count to 10.
+test encrypt/opt4_vary_size_50_50_7 ... bench:   197313189 ns/iter (+/- 2735720)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 7.9s, or reduce sample count to 10.
+test encrypt/opt4_vary_size_50_50_8 ... bench:   198248572 ns/iter (+/- 1943282)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 7.9s, or reduce sample count to 10.
+test encrypt/opt4_vary_size_50_50_9 ... bench:   195971686 ns/iter (+/- 3710887)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 7.9s, or reduce sample count to 10.
+test encrypt/opt4_vary_size_50_50_10 ... bench:   198203691 ns/iter (+/- 2732549)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 7.8s, or reduce sample count to 10.
+test encrypt/opt4_vary_size_50_50_20 ... bench:   197099359 ns/iter (+/- 2917459)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 7.9s, or reduce sample count to 10.
+test encrypt/opt4_vary_size_50_50_30 ... bench:   196908720 ns/iter (+/- 2675147)
+
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.0s, or reduce sample count to 10.
+test encrypt/opt5_vary_size_50_50_1 ... bench:   225503021 ns/iter (+/- 2749890)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.0s, or reduce sample count to 10.
+test encrypt/opt5_vary_size_50_50_2 ... bench:   224851577 ns/iter (+/- 3155859)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.1s, or reduce sample count to 10.
+test encrypt/opt5_vary_size_50_50_3 ... bench:   225930502 ns/iter (+/- 2769542)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.0s, or reduce sample count to 10.
+test encrypt/opt5_vary_size_50_50_4 ... bench:   228544731 ns/iter (+/- 2721151)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.0s, or reduce sample count to 10.
+test encrypt/opt5_vary_size_50_50_5 ... bench:   226395727 ns/iter (+/- 3227052)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.0s, or reduce sample count to 10.
+test encrypt/opt5_vary_size_50_50_6 ... bench:   225469557 ns/iter (+/- 2789290)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.0s, or reduce sample count to 10.
+test encrypt/opt5_vary_size_50_50_7 ... bench:   226193889 ns/iter (+/- 3004588)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.0s, or reduce sample count to 10.
+test encrypt/opt5_vary_size_50_50_8 ... bench:   226057454 ns/iter (+/- 2173555)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.0s, or reduce sample count to 10.
+test encrypt/opt5_vary_size_50_50_9 ... bench:   225387046 ns/iter (+/- 4708309)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.1s, or reduce sample count to 10.
+test encrypt/opt5_vary_size_50_50_10 ... bench:   228357816 ns/iter (+/- 3429839)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.0s, or reduce sample count to 10.
+test encrypt/opt5_vary_size_50_50_20 ... bench:   226219386 ns/iter (+/- 3788214)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.2s, or reduce sample count to 10.
+test encrypt/opt5_vary_size_50_50_30 ... bench:   224366087 ns/iter (+/- 2929775)
+
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.0s, or reduce sample count to 10.
+test encrypt/opt6_vary_size_50_50_1 ... bench:   224665241 ns/iter (+/- 2662473)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.0s, or reduce sample count to 10.
+test encrypt/opt6_vary_size_50_50_2 ... bench:   226443155 ns/iter (+/- 3077187)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.0s, or reduce sample count to 10.
+test encrypt/opt6_vary_size_50_50_3 ... bench:   224760506 ns/iter (+/- 2717600)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.0s, or reduce sample count to 10.
+test encrypt/opt6_vary_size_50_50_4 ... bench:   224297546 ns/iter (+/- 2999827)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.0s, or reduce sample count to 10.
+test encrypt/opt6_vary_size_50_50_5 ... bench:   225360377 ns/iter (+/- 3806165)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.0s, or reduce sample count to 10.
+test encrypt/opt6_vary_size_50_50_6 ... bench:   225155393 ns/iter (+/- 2517713)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.0s, or reduce sample count to 10.
+test encrypt/opt6_vary_size_50_50_7 ... bench:   224503518 ns/iter (+/- 2582572)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.0s, or reduce sample count to 10.
+test encrypt/opt6_vary_size_50_50_8 ... bench:   224818715 ns/iter (+/- 2523736)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.0s, or reduce sample count to 10.
+test encrypt/opt6_vary_size_50_50_9 ... bench:   225243503 ns/iter (+/- 2460117)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.0s, or reduce sample count to 10.
+test encrypt/opt6_vary_size_50_50_10 ... bench:   225586425 ns/iter (+/- 2863710)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.1s, or reduce sample count to 10.
+test encrypt/opt6_vary_size_50_50_20 ... bench:   226386830 ns/iter (+/- 3273784)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.0s, or reduce sample count to 10.
+test encrypt/opt6_vary_size_50_50_30 ... bench:   224700690 ns/iter (+/- 2924897)
+
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 12.3s, or reduce sample count to 10.
+test decrypt/opt0_vary_size_50_50_1 ... bench:   306556498 ns/iter (+/- 98027)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 13.3s, or reduce sample count to 10.
+test decrypt/opt0_vary_size_50_50_2 ... bench:   333698542 ns/iter (+/- 141541)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 14.3s, or reduce sample count to 10.
+test decrypt/opt0_vary_size_50_50_3 ... bench:   356696268 ns/iter (+/- 2618114)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 15.1s, or reduce sample count to 10.
+test decrypt/opt0_vary_size_50_50_4 ... bench:   376975758 ns/iter (+/- 108942)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 15.8s, or reduce sample count to 10.
+test decrypt/opt0_vary_size_50_50_5 ... bench:   395193738 ns/iter (+/- 126954)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 16.5s, or reduce sample count to 10.
+test decrypt/opt0_vary_size_50_50_6 ... bench:   412317925 ns/iter (+/- 452930)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 17.4s, or reduce sample count to 10.
+test decrypt/opt0_vary_size_50_50_7 ... bench:   428597340 ns/iter (+/- 1803040)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 17.8s, or reduce sample count to 10.
+test decrypt/opt0_vary_size_50_50_8 ... bench:   444465525 ns/iter (+/- 177816)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 18.4s, or reduce sample count to 10.
+test decrypt/opt0_vary_size_50_50_9 ... bench:   459697074 ns/iter (+/- 1349746)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 19.0s, or reduce sample count to 10.
+test decrypt/opt0_vary_size_50_50_10 ... bench:   475768218 ns/iter (+/- 637107)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 24.8s, or reduce sample count to 10.
+test decrypt/opt0_vary_size_50_50_20 ... bench:   619597124 ns/iter (+/- 536771)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 30.4s, or reduce sample count to 10.
+test decrypt/opt0_vary_size_50_50_30 ... bench:   759695667 ns/iter (+/- 981728)
+
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.2s, or reduce sample count to 10.
+test decrypt/opt1_vary_size_50_50_1 ... bench:   228661583 ns/iter (+/- 382562)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 10.2s, or reduce sample count to 10.
+test decrypt/opt1_vary_size_50_50_2 ... bench:   255801057 ns/iter (+/- 581415)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 11.1s, or reduce sample count to 10.
+test decrypt/opt1_vary_size_50_50_3 ... bench:   278696310 ns/iter (+/- 640625)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 12.0s, or reduce sample count to 10.
+test decrypt/opt1_vary_size_50_50_4 ... bench:   298859112 ns/iter (+/- 503702)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 12.7s, or reduce sample count to 10.
+test decrypt/opt1_vary_size_50_50_5 ... bench:   316707249 ns/iter (+/- 435257)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 13.4s, or reduce sample count to 10.
+test decrypt/opt1_vary_size_50_50_6 ... bench:   334438717 ns/iter (+/- 394516)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 14.0s, or reduce sample count to 10.
+test decrypt/opt1_vary_size_50_50_7 ... bench:   350284714 ns/iter (+/- 641100)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 14.6s, or reduce sample count to 10.
+test decrypt/opt1_vary_size_50_50_8 ... bench:   366010552 ns/iter (+/- 482073)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 15.2s, or reduce sample count to 10.
+test decrypt/opt1_vary_size_50_50_9 ... bench:   381237593 ns/iter (+/- 1387653)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 15.9s, or reduce sample count to 10.
+test decrypt/opt1_vary_size_50_50_10 ... bench:   396537802 ns/iter (+/- 631407)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 21.6s, or reduce sample count to 10.
+test decrypt/opt1_vary_size_50_50_20 ... bench:   540474449 ns/iter (+/- 597090)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 27.2s, or reduce sample count to 10.
+test decrypt/opt1_vary_size_50_50_30 ... bench:   680524978 ns/iter (+/- 1284643)
+
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.1s, or reduce sample count to 10.
+test decrypt/opt2_vary_size_50_50_1 ... bench:   228224033 ns/iter (+/- 521178)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 10.2s, or reduce sample count to 10.
+test decrypt/opt2_vary_size_50_50_2 ... bench:   255237308 ns/iter (+/- 415206)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 11.1s, or reduce sample count to 10.
+test decrypt/opt2_vary_size_50_50_3 ... bench:   278175315 ns/iter (+/- 530359)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 11.9s, or reduce sample count to 10.
+test decrypt/opt2_vary_size_50_50_4 ... bench:   298400199 ns/iter (+/- 453324)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 12.7s, or reduce sample count to 10.
+test decrypt/opt2_vary_size_50_50_5 ... bench:   316988889 ns/iter (+/- 613589)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 13.3s, or reduce sample count to 10.
+test decrypt/opt2_vary_size_50_50_6 ... bench:   333837779 ns/iter (+/- 382444)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 14.0s, or reduce sample count to 10.
+test decrypt/opt2_vary_size_50_50_7 ... bench:   350218518 ns/iter (+/- 581060)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 14.7s, or reduce sample count to 10.
+test decrypt/opt2_vary_size_50_50_8 ... bench:   365582734 ns/iter (+/- 2160216)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 15.2s, or reduce sample count to 10.
+test decrypt/opt2_vary_size_50_50_9 ... bench:   381270990 ns/iter (+/- 664429)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 15.9s, or reduce sample count to 10.
+test decrypt/opt2_vary_size_50_50_10 ... bench:   395892063 ns/iter (+/- 606797)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 21.6s, or reduce sample count to 10.
+test decrypt/opt2_vary_size_50_50_20 ... bench:   540350977 ns/iter (+/- 839899)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 27.2s, or reduce sample count to 10.
+test decrypt/opt2_vary_size_50_50_30 ... bench:   679489139 ns/iter (+/- 876287)
+
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 6.0s, or reduce sample count to 10.
+test decrypt/opt3_vary_size_50_50_1 ... bench:   150720060 ns/iter (+/- 491685)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 7.1s, or reduce sample count to 10.
+test decrypt/opt3_vary_size_50_50_2 ... bench:   178090109 ns/iter (+/- 372383)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 8.0s, or reduce sample count to 10.
+test decrypt/opt3_vary_size_50_50_3 ... bench:   200940891 ns/iter (+/- 342656)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 8.9s, or reduce sample count to 10.
+test decrypt/opt3_vary_size_50_50_4 ... bench:   221567561 ns/iter (+/- 399722)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.6s, or reduce sample count to 10.
+test decrypt/opt3_vary_size_50_50_5 ... bench:   239966643 ns/iter (+/- 479327)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 10.3s, or reduce sample count to 10.
+test decrypt/opt3_vary_size_50_50_6 ... bench:   257153861 ns/iter (+/- 428990)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 11.0s, or reduce sample count to 10.
+test decrypt/opt3_vary_size_50_50_7 ... bench:   273605238 ns/iter (+/- 337639)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 11.6s, or reduce sample count to 10.
+test decrypt/opt3_vary_size_50_50_8 ... bench:   289508583 ns/iter (+/- 486692)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 12.2s, or reduce sample count to 10.
+test decrypt/opt3_vary_size_50_50_9 ... bench:   305449598 ns/iter (+/- 359725)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 12.8s, or reduce sample count to 10.
+test decrypt/opt3_vary_size_50_50_10 ... bench:   320239307 ns/iter (+/- 398415)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 18.7s, or reduce sample count to 10.
+test decrypt/opt3_vary_size_50_50_20 ... bench:   466867503 ns/iter (+/- 509663)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 24.4s, or reduce sample count to 10.
+test decrypt/opt3_vary_size_50_50_30 ... bench:   608753112 ns/iter (+/- 745298)
+
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 6.0s, or reduce sample count to 10.
+test decrypt/opt4_vary_size_50_50_1 ... bench:   150605860 ns/iter (+/- 300463)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 7.1s, or reduce sample count to 10.
+test decrypt/opt4_vary_size_50_50_2 ... bench:   178044691 ns/iter (+/- 397932)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 8.0s, or reduce sample count to 10.
+test decrypt/opt4_vary_size_50_50_3 ... bench:   200853890 ns/iter (+/- 413306)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 8.9s, or reduce sample count to 10.
+test decrypt/opt4_vary_size_50_50_4 ... bench:   221164106 ns/iter (+/- 418701)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.6s, or reduce sample count to 10.
+test decrypt/opt4_vary_size_50_50_5 ... bench:   239695709 ns/iter (+/- 345609)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 10.3s, or reduce sample count to 10.
+test decrypt/opt4_vary_size_50_50_6 ... bench:   257023841 ns/iter (+/- 306711)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 10.9s, or reduce sample count to 10.
+test decrypt/opt4_vary_size_50_50_7 ... bench:   273505200 ns/iter (+/- 349648)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 11.6s, or reduce sample count to 10.
+test decrypt/opt4_vary_size_50_50_8 ... bench:   289166478 ns/iter (+/- 463546)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 12.2s, or reduce sample count to 10.
+test decrypt/opt4_vary_size_50_50_9 ... bench:   304908256 ns/iter (+/- 438453)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 12.8s, or reduce sample count to 10.
+test decrypt/opt4_vary_size_50_50_10 ... bench:   320238656 ns/iter (+/- 399647)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 18.7s, or reduce sample count to 10.
+test decrypt/opt4_vary_size_50_50_20 ... bench:   466567354 ns/iter (+/- 654261)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 24.3s, or reduce sample count to 10.
+test decrypt/opt4_vary_size_50_50_30 ... bench:   608244103 ns/iter (+/- 687229)
+
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.2s, or reduce sample count to 10.
+test decrypt/opt5_vary_size_50_50_1 ... bench:   229831330 ns/iter (+/- 465467)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 10.3s, or reduce sample count to 10.
+test decrypt/opt5_vary_size_50_50_2 ... bench:   257221112 ns/iter (+/- 441712)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 11.2s, or reduce sample count to 10.
+test decrypt/opt5_vary_size_50_50_3 ... bench:   279921925 ns/iter (+/- 432310)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 12.0s, or reduce sample count to 10.
+test decrypt/opt5_vary_size_50_50_4 ... bench:   300643403 ns/iter (+/- 851893)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 12.8s, or reduce sample count to 10.
+test decrypt/opt5_vary_size_50_50_5 ... bench:   319198795 ns/iter (+/- 386469)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 13.5s, or reduce sample count to 10.
+test decrypt/opt5_vary_size_50_50_6 ... bench:   336600010 ns/iter (+/- 523083)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 14.1s, or reduce sample count to 10.
+test decrypt/opt5_vary_size_50_50_7 ... bench:   352990216 ns/iter (+/- 594238)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 14.8s, or reduce sample count to 10.
+test decrypt/opt5_vary_size_50_50_8 ... bench:   369037350 ns/iter (+/- 386846)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 15.4s, or reduce sample count to 10.
+test decrypt/opt5_vary_size_50_50_9 ... bench:   384803574 ns/iter (+/- 399262)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 16.0s, or reduce sample count to 10.
+test decrypt/opt5_vary_size_50_50_10 ... bench:   400342884 ns/iter (+/- 586174)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 21.9s, or reduce sample count to 10.
+test decrypt/opt5_vary_size_50_50_20 ... bench:   546552759 ns/iter (+/- 588637)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 27.6s, or reduce sample count to 10.
+test decrypt/opt5_vary_size_50_50_30 ... bench:   689131170 ns/iter (+/- 665420)
+
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 9.2s, or reduce sample count to 10.
+test decrypt/opt6_vary_size_50_50_1 ... bench:   229905801 ns/iter (+/- 332387)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 10.3s, or reduce sample count to 10.
+test decrypt/opt6_vary_size_50_50_2 ... bench:   257482075 ns/iter (+/- 386756)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 11.2s, or reduce sample count to 10.
+test decrypt/opt6_vary_size_50_50_3 ... bench:   280603770 ns/iter (+/- 601132)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 12.0s, or reduce sample count to 10.
+test decrypt/opt6_vary_size_50_50_4 ... bench:   301120036 ns/iter (+/- 448960)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 12.8s, or reduce sample count to 10.
+test decrypt/opt6_vary_size_50_50_5 ... bench:   319667039 ns/iter (+/- 1251640)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 13.5s, or reduce sample count to 10.
+test decrypt/opt6_vary_size_50_50_6 ... bench:   336872228 ns/iter (+/- 612971)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 14.2s, or reduce sample count to 10.
+test decrypt/opt6_vary_size_50_50_7 ... bench:   353190686 ns/iter (+/- 617571)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 14.8s, or reduce sample count to 10.
+test decrypt/opt6_vary_size_50_50_8 ... bench:   369410887 ns/iter (+/- 610819)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 15.4s, or reduce sample count to 10.
+test decrypt/opt6_vary_size_50_50_9 ... bench:   384960573 ns/iter (+/- 466235)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 16.0s, or reduce sample count to 10.
+test decrypt/opt6_vary_size_50_50_10 ... bench:   400375488 ns/iter (+/- 503148)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 21.9s, or reduce sample count to 10.
+test decrypt/opt6_vary_size_50_50_20 ... bench:   546488118 ns/iter (+/- 1303172)
+
+Warning: Unable to complete 40 samples in 3.0s. You may wish to increase target time to 27.6s, or reduce sample count to 10.
+test decrypt/opt6_vary_size_50_50_30 ... bench:   689101462 ns/iter (+/- 712743)
+
