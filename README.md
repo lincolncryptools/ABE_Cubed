@@ -3,6 +3,9 @@
 ## General Info and Versions
 The artifact was developed and tested on Ubuntu 22.04.5 LTS with `cargo` 1.85.1 for the Rust implementation.
 
+The measurements in `eval` are taken on an AMD server with an Ubuntu VM on 8 physical and 16 virtual cores
+and 32 GB of RAM.
+
 ## Artifact structure
 
 ### Code
