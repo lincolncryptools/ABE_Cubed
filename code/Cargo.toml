@@ -1,0 +1,47 @@
+[package]
+name = "abe_cubed"
+version = "0.1.0"
+edition = "2021"
+readme = "README.md"
+
+[features]
+html_reports = []
+decrypt_mode_a = []
+decrypt_mode_b = []
+decrypt_mode_aa = []
+decrypt_mode_ab = []
+decrypt_mode_ba = []
+decrypt_mode_bb = []
+
+[dependencies]
+ark-bls12-377 = "0.4.0"
+ark-bls12-381 = "0.4.0"
+ark-mnt4-298 = "0.4.0"
+ark-ec = "0.4.2"
+ark-ff = "0.4.2"
+ark-std = "0.4.0"
+sha2 = "0.10.8"
+rand = "0.8.4"
+criterion = "0.3"
+
+[[bench]]
+name = "strat_01a"
+harness = false
+required-features = []
+
+[[bench]]
+name = "strat_01b"
+harness = false
+required-features = []
+
+[[bench]]
+name = "strat_02"
+harness = false
+required-features = []
+
+[lib]
+bench = false
+
+[[bin]]
+name = "abe_cubed"
+bench = false
